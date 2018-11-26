@@ -33,7 +33,7 @@ login_data = {
     "utf8": "&#x2713;",
     "user[email]": "", #ENTER EMAIL HERE
     "user[password]": "", #ENTER PASSWORD HERE
-    "commit": "Log in" #HEADER FOR LOGIN ACTION
+    "commit": "Log in" #USED TO SPECIFY REQUEST IS FOR LOGIN ACTION
 }
 ```
 
